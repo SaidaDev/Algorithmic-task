@@ -1,0 +1,21 @@
+{
+  "name": "git_zirinc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "m1": "node m1.js",
+    "m2": "node m2.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SaidaDev/zirinc_task.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SaidaDev/zirinc_task/issues"
+  },
+  "homepage": "https://github.com/SaidaDev/zirinc_task#readme"
+}
