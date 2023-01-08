@@ -4,7 +4,7 @@ This code shows 2 methods of reversing the array of characters
 
 ```js
 // Given
-const array = ['c','a','t',' ','d','o','g',' ','a','p','p','l','e',' ','f','i','n','e',' ','f', 'o', 'x',]
+const array = ['c','a','t',' ','d','o','g',' ','a','p','p','l','e',' ','f','i','n','e',' ','f', 'o', 'x']
 ```
 The result should contain the array of characters with reversed words order
 
