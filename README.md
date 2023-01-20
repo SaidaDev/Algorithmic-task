@@ -1,4 +1,4 @@
-# Zirinc interview task solution
+# Interview task solution
 
 This code shows 2 methods of reversing the array of characters
 
